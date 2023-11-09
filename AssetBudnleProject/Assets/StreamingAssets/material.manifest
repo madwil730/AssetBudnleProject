@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 490086521
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 907b0143fa530f877706f2addb842e9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Material/Unlit_Color.mat
+- Assets/Material/Standard_red.mat
+- Assets/Material/Well.mat
+- Assets/Material/Cactus.mat
+- Assets/Material/Bone.mat
+- Assets/Material/Moblie_Diffuse.mat
+Dependencies: []

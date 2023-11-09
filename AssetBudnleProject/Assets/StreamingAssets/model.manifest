@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1397386543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 301678ff83b9624f54d54a2894002a4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b9e2279f248636a1a314ea953a5d686b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75ad0c7c94a3c3343b06fe99ce7f0a39, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Cactus.prefab
+- Assets/Prefab/Bone.prefab
+Dependencies: []

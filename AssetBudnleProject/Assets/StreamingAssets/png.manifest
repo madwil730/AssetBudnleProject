@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3140131353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f18b375a35d97da81bcb82f0bf031f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Thumbnail/Well_Moblie_Diffuse.png
+- Assets/Thumbnail/Cactus_Cactus.png
+- Assets/Thumbnail/Well.png
+- Assets/Thumbnail/Cactus_Standard_red.png
+- Assets/Thumbnail/Well_Unlit_Color.png
+- Assets/Thumbnail/Bone_Standard_red.png
+- Assets/Thumbnail/Cactus_Moblie_Diffuse.png
+- Assets/Thumbnail/Well_Standard_red.png
+- Assets/Thumbnail/Bone.png
+- Assets/Thumbnail/Bone_Bone.png
+- Assets/Thumbnail/Cactus.png
+- Assets/Thumbnail/Bone_Unlit_Color.png
+- Assets/Thumbnail/Cactus_Unlit_Color.png
+- Assets/Thumbnail/Well_Well.png
+- Assets/Thumbnail/Bone_Moblie_Diffuse.png
+Dependencies: []
